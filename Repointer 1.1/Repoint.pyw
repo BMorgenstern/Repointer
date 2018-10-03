@@ -1,11 +1,12 @@
 __author__ = 'Brendor'
 '''
-Repoint.pyw by Brendan Morgenstern AKA Brendor; V 1.1 1/9/16
+Repoint.pyw by Brendan Morgenstern; V 1.1 1/9/16
 This is a python file that easily reallocates data tables in a GBA ROM image and updates the pointers to said tables.
 All of the repointing data is given from the input nightmare module, which species the default location of the table, length in
 bytes of one object, and the number of objects in the array. Upon request, the input nightmare module can be automatically updated
 with the new location of the table and the new expanded number of entries. There is more info in the readme in this program's root 
-directory. If you as the user experience any bugs, or have any questions, I can be contacted on Skype at kratosonkrak. Enjoy.
+directory. If you as the user experience any bugs, or have any questions, I can be contacted at brendanmorgenstern@gmail.com. 
+Enjoy.
 
 *Python 2.7 required. 3.x is NOT supported.*
 '''
@@ -55,7 +56,7 @@ def setDataSize(integer):
 		size.set(2**32)
 	
 def main():
-	root.title('FEGBA Table Repointer by Brendor')
+	root.title('FEGBA Table Repointer')
 	root.geometry('400x200+200+200')
 	root.resizable(0,0)
 	label = Label(root, text = 'ROM').grid(column = 0, row = 0, sticky = 'W')
