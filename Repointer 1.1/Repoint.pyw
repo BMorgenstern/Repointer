@@ -1,4 +1,4 @@
-__author__ = 'Brendor'
+__author__ = 'Brendan'
 '''
 Repoint.pyw by Brendan Morgenstern; V 1.1 1/9/16
 This is a python file that easily reallocates data tables in a GBA ROM image and updates the pointers to said tables.
