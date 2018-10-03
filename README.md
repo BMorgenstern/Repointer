@@ -31,7 +31,7 @@ Update module when done:
 
 Once all the info is put in, just click "Process" at the bottom and let the program do all the work.
 
-If you experience any bugs or have a question, I can be contacted on Skype at kratosonkrak.
+If you experience any bugs or have a question, I can be contacted at brendanmorgenstern@gmail.com .
 
 Additional notes:
 
