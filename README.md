@@ -1,6 +1,6 @@
 # Repointer
 
-FEGBA Table Repointer by Brendan Morgenstern AKA Brendor V 1.1 1/9/16
+FEGBA Table Repointer by Brendan Morgenstern V 1.1 1/9/16
 
 A python file that repoints data tables in FEGBA ROMs given a nightmare module to reference.
 
